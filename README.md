@@ -10,7 +10,7 @@
 ---
 
 ## 📖 Overview
-**ClassifAI** is a state-of-the-art web application powered by **Deep Learning** designed to automate waste segregation. Built with **Streamlit** and **TensorFlow**, it accurately identifies garbage types from images and provides actionable insights on:
+**GarbageClassifier** is a state-of-the-art web application powered by **Deep Learning** designed to automate waste segregation. Built with **Streamlit** and **TensorFlow**, it accurately identifies garbage types from images and provides actionable insights on:
 * **Material Classification:** (Glass, Plastic, Paper, Metal, Cardboard, Trash)
 * **Environmental Impact:** Real-time Carbon Footprint estimates.
 * **Sustainability:** Alignment with UN Sustainable Development Goals (SDGs).
@@ -131,4 +131,4 @@ Contributions are always welcome! If you have ideas for new features (like Camer
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-<div align="center"> <p>Made with ❤️ by <b>Nithin G J</b></p> <p> <a href="https://github.com/NithinGJ2005"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="GitHub Profile" /> </a> <a href="https://classif-ai-a-garbage-classifier-app.streamlit.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit" alt="Live Demo" /> </a> </p> </div>
+<div align="center"> <p>Made with ❤️ by <b>Vinay N V</b></p> <p> <a href="https://github.com/nvvinay/GarbageClassifier"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="GitHub Profile" /> </a> <a href="https://garbageclassifier-7.streamlit.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit" alt="Live Demo" /> </a> </p> </div>
